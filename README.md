@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @abipriyanka
-- 👀 I’m interested in Machine learning
-- 🌱 I’m currently doing Master's in Data Science
-- 📫 Reach me at abipriyanka051201@gmail.com
+👋 Hi, I’m Abi Priyanka Poornima Lakshmanan, a Data Scientist based in Liverpool, UK.
 
-<!---
-abipriyanka/abipriyanka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Data Scientist with expertise in Python, R, SQL, and a variety of data analysis and visualization tools. Passionate about deriving insights from data to drive informed decision-making and always open to learning and exploring new technologies and methodologies.
+
+More about me: 
+- 💃 Bharatanatyam dancer for 13 years, holding a diploma and mastering all 6 levels!
+- 📚 Translated a book from English to Tamil for Alagappa University.
+
+📧 Email: abipriyanka051201@gmail.com 
+💼 LinkedIn: linkedin.com/in/abi-priyanka
